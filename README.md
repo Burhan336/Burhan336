@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Burhan,
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Burhan+Saqib)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack, NEXT.js, and Native app development. I love building robust and scalable web applications as well as mobile apps that deliver seamless user experiences.
 
